@@ -1,6 +1,8 @@
 Esto es un texto plano.
 
-Mismo archivo con una linea nueva.
+Cambio por otro archivo con una linea nueva.
 
 
 Otra linea 6...
+
+Seguimos con el curso de Git.
