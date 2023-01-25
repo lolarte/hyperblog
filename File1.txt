@@ -1,4 +1,5 @@
 Esto es un texto plano.
 
+Mismo archivo con una linea nueva.
 
 
